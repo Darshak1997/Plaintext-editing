@@ -2,7 +2,7 @@
 
 ## To run the challenge:
 
-1. Clone or download this repo and `cd rethink-plaintext-editing`
+1. Clone or download this repo and go in the directory.
 2. Run `npm install && npm run dev`
 3. Open `localhost:3000` in your browser
 
