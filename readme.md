@@ -1,4 +1,4 @@
-# Rethink Plaintext Editing
+## Rethink Plaintext Editing
 
 # To run the challenge:
 
